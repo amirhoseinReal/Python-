@@ -34,3 +34,10 @@ Through this project, I gained practical experience in:
 - Handling missing data and ensuring data quality.
 - Using pandas for efficient data cleaning and manipulation.
 - Preparing datasets for analysis, which is essential for a career in data analytics.
+
+## Contributing
+If you have suggestions or improvements, feel free to create an issue or submit a pull request. Contributions are welcome!
+
+## License
+This project is open-source and available under the MIT License.
+
